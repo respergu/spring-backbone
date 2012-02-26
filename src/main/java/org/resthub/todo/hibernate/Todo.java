@@ -6,7 +6,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+/**
+ * Hibernate POJO
+ * @author respergu
+ *
+ */
 @Entity
 @Table(name="TODO")
 public class Todo {
