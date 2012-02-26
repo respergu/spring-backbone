@@ -1,5 +1,9 @@
 package org.resthub.todo;
-
+/**
+ * Todo POJO.
+ * @author REspergue
+ *
+ */
 public class Todo {
     
     private String id;
