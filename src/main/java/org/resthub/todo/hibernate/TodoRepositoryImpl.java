@@ -11,7 +11,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.orm.hibernate3.HibernateCallback;
 import org.springframework.orm.hibernate3.HibernateTemplate;
 import org.springframework.stereotype.Repository;
-
+/**
+ * 
+ * @author respergu
+ *
+ */
 @Repository
 public class TodoRepositoryImpl implements TodoRepository {
 	
